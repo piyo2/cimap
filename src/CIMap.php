@@ -1,6 +1,6 @@
 <?php
 
-namespace piyo2\util;
+namespace piyo2\util\cimap;
 
 /**
  * Case-insensitive map
